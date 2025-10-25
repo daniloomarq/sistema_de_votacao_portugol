@@ -51,20 +51,6 @@ Conforme eu for aprendendo mais sobre programação, pretendo:
 
 ---
 
-## 🖼️ Exemplos de execução
-Abaixo alguns exemplos de telas do programa sendo executado no **Visualg**:
-
-| Tela | Descrição |
-|------|------------|
-| ![Exemplo 1](img/inicio_programa.png) | Tela inicial do sistema de votação |
-| ![Exemplo 2](img/votacao.png) | Processo de votação com CPF |
-| ![Exemplo 3](img/resultado.png) | Resultado final com porcentagens e 2º turno |
-
-> As imagens estão na pasta **/img** dentro do repositório.  
-> Caso esteja clonando o projeto, certifique-se de manter as imagens no mesmo caminho para que apareçam corretamente no README.
-
----
-
 ## 📈 Futuras melhorias
 - Implementar votos brancos e nulos  
 - Adicionar armazenamento permanente dos resultados  
